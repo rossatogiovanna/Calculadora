@@ -62,7 +62,7 @@ function div(){
 
 
 <style >
-*{
+body{
   background-color: #ee91e2;
 }
 </style>

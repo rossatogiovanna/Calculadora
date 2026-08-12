@@ -25,7 +25,7 @@ function div(){
 </template>
 
 <style>
-*{
+body{
     background-color: blueviolet;
 }
 
